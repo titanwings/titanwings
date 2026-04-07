@@ -5,11 +5,11 @@
 # 👋 Hey, I'm titanwings
 
 <p align="center">
-  🧬 我是活人！<br>
-  ✍️ 同事.skill 系列作者，一个有趣的人！<br>
-  🌍 想活跃于开源社区！<br>
-  🔥 喜欢造出酷的东西！<br>
-  💬 欢迎来聊！issue / email / 小红书 都行
+  🧬 我是活人！/ I'm a real human!<br>
+  ✍️ 同事.skill 系列作者，一个有趣的人！/ Creator of the colleague-skill series, and a fun person!<br>
+  🌍 想活跃于开源社区！/ Looking to be active in the open-source community!<br>
+  🔥 喜欢造出酷的东西！/ Love building cool stuff!<br>
+  💬 欢迎来聊！issue / email / 小红书 都行 / Let's chat! Reach me via issue / email / 小红书
 </p>
 
 [![GitHub followers](https://img.shields.io/github/followers/titanwings?style=social)](https://github.com/titanwings)
@@ -64,10 +64,12 @@
 
 <p align="center">
   <i>"你们搞大模型的就是码圣，你们已经解放前端兄弟了，还要解放后端兄弟，测试兄弟，运维兄弟，解放网安兄弟，解放IC兄弟，最后解放自己解放全人类"</i>
+  <br>
+  <i>"You LLM folks are code saints — you've already liberated the frontend devs, now go free the backend, QA, ops, security, IC brothers, then yourselves, then all of humanity"</i>
 </p>
 
 <p align="center">
   <img src="./yaya.png" width="600" />
   <br>
-  <i>我要给丫丫完整的一生</i>
+  <i>我要给丫丫完整的一生 / I want to give YaYa a complete life</i>
 </p>
