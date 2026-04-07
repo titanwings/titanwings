@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=%E6%AC%A2%E8%BF%8E%E5%8A%A0%E5%85%A5%E8%B5%9B%E5%8D%9A%E6%B0%B8%E7%94%9F;Welcome+to+Cyber+Immortality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=%E6%AC%A2%E8%BF%8E%E5%8A%A0%E5%85%A5%E8%B5%9B%E5%8D%9A%E6%B0%B8%E7%94%9F;Welcome+to+Cyber+Immortality;Transforming+cold+farewells+into+warm+skills%3F;It's+giving+rebirth+era.;Welcome+to+Digital+Life+1.0." alt="Typing SVG" />
 </p>
 
 # 👋 Hey, I'm titanwings
