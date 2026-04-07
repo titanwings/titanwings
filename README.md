@@ -4,16 +4,19 @@
 
 # 👋 Hey, I'm titanwings
 
+<p align="center">
+  🧬 我是活人！<br>
+  ✍️ 同事.skill 系列作者，一个有趣的人！<br>
+  🌍 想活跃于开源社区！<br>
+  💬 欢迎来聊！issue / email / 小红书 都行
+</p>
+
 [![GitHub followers](https://img.shields.io/github/followers/titanwings?style=social)](https://github.com/titanwings)
 ![Profile Views](https://komarev.com/ghpvc/?username=titanwings&color=blueviolet&style=flat-square)
 
 ---
 
 ### 🔥 colleague-skill 系列 / The colleague-skill Series
-
-我相信每个人的工作方式都值得被保留。离职不该是知识的终点，而是 Skill 的起点。
-
-I believe everyone's way of working deserves to be preserved. A farewell shouldn't be the end of knowledge — it should be the beginning of a Skill.
 
 | Project | What it does | Stars |
 |---|---|---|
@@ -47,6 +50,12 @@ I believe everyone's way of working deserves to be preserved. A farewell shouldn
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=titanwings&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+### ⭐ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=titanwings/colleague-skill&type=Date)](https://star-history.com/#titanwings/colleague-skill&Date)
 
 ---
 
