@@ -17,6 +17,15 @@
 
 ---
 
+### 📬 Find Me
+
+[![Email](https://img.shields.io/badge/-open.titanwings@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:open.titanwings@gmail.com)
+[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logoColor=white)](https://xhslink.com/m/4Qq6MzmGVcZ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianyi-zh/)
+[![GitHub](https://img.shields.io/badge/-titanwings-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanwings)
+
+---
+
 ### 🔥 colleague-skill 系列 / The colleague-skill Series
 
 | Project | What it does | Stars |
@@ -50,15 +59,6 @@
    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=titanwings/colleague-skill&type=date&legend=top-left" />
  </picture>
 </a>
-
----
-
-### 📬 Find Me
-
-[![Email](https://img.shields.io/badge/-open.titanwings@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:open.titanwings@gmail.com)
-[![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logoColor=white)](https://xhslink.com/m/4Qq6MzmGVcZ)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianyi-zh/)
-[![GitHub](https://img.shields.io/badge/-titanwings-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanwings)
 
 ---
 
