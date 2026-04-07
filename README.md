@@ -50,14 +50,6 @@ I believe everyone's way of working deserves to be preserved. A farewell shouldn
 
 ---
 
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=titanwings&theme=tokyonight&no-frame=true&column=7&margin-w=10" />
-</p>
-
----
-
 ### 📬 Find Me
 
 [![Email](https://img.shields.io/badge/-open.titanwings@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:open.titanwings@gmail.com)
