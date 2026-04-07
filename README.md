@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=%E6%8A%8A%E5%90%8C%E4%BA%8B%E8%92%B8%E9%A6%8F%E6%88%90+AI+%E2%80%94+%E8%BF%99%E4%BA%8B%E5%84%BF%E6%88%91%E6%98%AF%E8%AE%A4%E7%9C%9F%E7%9A%84%E3%80%82;I+distill+people+into+AI+Skills.;Welcome+to+Digital+Life+1.0+%F0%9F%AB%B6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=000000&center=true&vCenter=true&random=false&width=600&lines=%E6%AC%A2%E8%BF%8E%E5%8A%A0%E5%85%A5%E8%B5%9B%E5%8D%9A%E6%B0%B8%E7%94%9F;Welcome+to+Cyber+Immortality" alt="Typing SVG" />
 </p>
 
-# 👋 Hey, I'm Adrian
+# 👋 Hey, I'm titanwings
 
 [![GitHub followers](https://img.shields.io/github/followers/titanwings?style=social)](https://github.com/titanwings)
 ![Profile Views](https://komarev.com/ghpvc/?username=titanwings&color=blueviolet&style=flat-square)
