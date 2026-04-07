@@ -56,6 +56,7 @@
 
 [![Email](https://img.shields.io/badge/-open.titanwings@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:open.titanwings@gmail.com)
 [![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logoColor=white)](https://xhslink.com/m/4Qq6MzmGVcZ)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianyi-zh/)
 [![GitHub](https://img.shields.io/badge/-titanwings-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanwings)
 
 ---
