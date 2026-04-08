@@ -23,6 +23,7 @@
 [![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logoColor=white)](https://xhslink.com/m/4Qq6MzmGVcZ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianyi-zh/)
 [![GitHub](https://img.shields.io/badge/-titanwings-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanwings)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aRjmJBdK)
 
 ---
 
