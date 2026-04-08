@@ -26,15 +26,21 @@
 
 ---
 
-### 🔥 colleague-skill 系列 / The colleague-skill Series
+### 🆕 Update / 更新
 
-> 🆕 **2025.04.07 更新** — 大家对二创 dot-skill 热情超高！我搓了一个社区平台，欢迎投 PR 一起维护分享！
+> **2025.04.07** — 大家对二创 dot-skill 热情超高！我搓了一个社区平台，欢迎投 PR 一起维护分享！
+>
+> 任何 skill 或 meta-skill 均可分享，直接给自己的 GitHub repo 引流～ 没有中间商赚差价
 >
 > 👉 **[titanwings.github.io/colleague-skill-site](https://titanwings.github.io/colleague-skill-site/)**
 >
-> 已收录：户晨风.skill · 峰哥亡命天涯.skill · 罗翔.skill
+> 已收录：户晨风.skill · 峰哥亡命天涯.skill · 罗翔.skill 等
 >
 > ⏳ 目前 PR 人工审核中，可能有点慢，感谢耐心等待！/ PRs are manually reviewed for now — may be a bit slow, thanks for your patience!
+
+---
+
+### 🔥 colleague-skill 系列 / The colleague-skill Series
 
 | Project | What it does | Stars |
 |---|---|---|
