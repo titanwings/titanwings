@@ -23,25 +23,18 @@
 [![小红书](https://img.shields.io/badge/-小红书-FF2442?style=for-the-badge&logoColor=white)](https://xhslink.com/m/4Qq6MzmGVcZ)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianyi-zh/)
 [![GitHub](https://img.shields.io/badge/-titanwings-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/titanwings)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/aRjmJBdK)
-
----
-
-### 🆕 Update / 更新
-
-**2025.04.07** — 大家对二创 dot-skill 热情超高！我搓了一个社区平台，欢迎投 PR 一起维护分享！
-
-任何 skill 或 meta-skill 均可分享，直接给自己的 GitHub repo 引流～ 没有中间商赚差价
-
-👉 **[titanwings.github.io/colleague-skill-site](https://titanwings.github.io/colleague-skill-site/)**
-
-已收录：户晨风.skill · 峰哥亡命天涯.skill · 罗翔.skill 等
-
-⏳ 目前 PR 人工审核中，可能有点慢，感谢耐心等待！/ PRs are manually reviewed for now — may be a bit slow, thanks for your patience!
 
 ---
 
 ### 🔥 colleague-skill 系列 / The colleague-skill Series
+
+> 🆕 **2025.04.07 更新** — 大家对二创 dot-skill 热情超高！我搓了一个社区平台，欢迎投 PR 一起维护分享！
+>
+> 👉 **[titanwings.github.io/colleague-skill-site](https://titanwings.github.io/colleague-skill-site/)**
+>
+> 已收录（63 个）：丘比特.skill · 乔布斯.skill · 内娱.skill · 塔勒布.skill · 大学老师.skill · 女娲.skill · 她.skill · 峰哥亡命天涯.skill · 巴菲特.skill · 库克.skill · 张一鸣.skill · 恋爱训练营.skill · 户晨风.skill · 本科生科研组反蒸馏.skill · 毛选.skill · 水仙.skill · 永生.skill · 永雏塔菲.skill · 流萤.skill · 特朗普.skill · 童锦程.skill · 纳瓦尔.skill · 罗翔.skill · 芒格.skill · 费曼.skill · 马斯克.skill · 骂人求职信.skill · 列宁 · 前端架构师老陈 · 厉鬼 · 反蒸馏 · 四绝客奇卷・暗行秘典 · 妈妈 · 安全工程师小王 · 宝宝（王宝强）· 导师 · 师兄 · 数字人生 · 暗恋对象 · 月老・姻缘测算 · 父母 · 老板 · 自己 · 追爱军师 · 重逢 · 求是 Skill · 赛博算命 Skill · confucius-skill · CyberDoc.skill · ex-skill · Forge Skill · HR 小李 · HR.skill · Ilya.skill · KarlMarx Skill · Karpathy.skill · Master-skill · MrBeast.skill · Numerologist Skills · PG.skill · PsychClaw 心理之爪 · translator.skill · X导师.skill
+>
+> ⏳ 目前 PR 人工审核中，可能有点慢，感谢耐心等待！/ PRs are manually reviewed for now — may be a bit slow, thanks for your patience!
 
 | Project | What it does | Stars |
 |---|---|---|
